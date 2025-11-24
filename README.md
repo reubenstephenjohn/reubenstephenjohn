@@ -11,13 +11,13 @@
 # 📈 GitHub Stats:
 <div style="display: flex; justify-content: center;">
     <div style="margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api?username=Reuben-Stephen-John&show_icons=true&theme=swift" alt="Reuben Stephen John" />
+        <img src="https://github-readme-stats.vercel.app/api?username=reubenstephenjohn&show_icons=true&theme=swift" alt="Reuben Stephen John" />
     </div>
     <div style="margin: 10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Reuben-Stephen-John&theme=swift" alt="Reuben Stephen John" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=reubenstephenjohn&theme=swift" alt="Reuben Stephen John" />
     </div>
     <div style="margin: 10px;">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Reuben-Stephen-John&hide_progress=false&theme=swift" alt="Reuben Stephen John" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reubenstephenjohn&hide_progress=false&theme=swift" alt="Reuben Stephen John" />
     </div>
 </div>
 
